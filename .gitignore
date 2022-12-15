@@ -1,0 +1,7 @@
+/venv/
+.idea*
+*.pyc
+/.pytest_cache/
+*.log
+/static/
+example.sqlite
